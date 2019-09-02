@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62094" started-at="2019-09-02T15:23:04Z" finished-at="2019-09-02T15:24:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62094" started-at="2019-09-02T15:23:04Z" finished-at="2019-09-02T15:24:06Z">
+      <class name="EdubioSkills.LoginPage">
+        <test-method status="PASS" signature="getWebsite()[pri:0, instance:EdubioSkills.LoginPage@7d9d1a19]" name="getWebsite" is-config="true" duration-ms="10948" started-at="2019-09-02T20:53:04Z" finished-at="2019-09-02T20:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebsite -->
+        <test-method status="PASS" signature="Alogin()[pri:0, instance:EdubioSkills.LoginPage@7d9d1a19]" name="Alogin" duration-ms="16544" started-at="2019-09-02T20:53:15Z" finished-at="2019-09-02T20:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alogin -->
+        <test-method status="PASS" signature="closeWebsite()[pri:0, instance:EdubioSkills.LoginPage@7d9d1a19]" name="closeWebsite" is-config="true" duration-ms="818" started-at="2019-09-02T20:53:32Z" finished-at="2019-09-02T20:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebsite -->
+        <test-method status="PASS" signature="getWebsite()[pri:0, instance:EdubioSkills.LoginPage@7d9d1a19]" name="getWebsite" is-config="true" duration-ms="10108" started-at="2019-09-02T20:53:33Z" finished-at="2019-09-02T20:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebsite -->
+        <test-method status="PASS" signature="Blogin()[pri:0, instance:EdubioSkills.LoginPage@7d9d1a19]" name="Blogin" duration-ms="12246" started-at="2019-09-02T20:53:43Z" finished-at="2019-09-02T20:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blogin -->
+        <test-method status="PASS" signature="closeWebsite()[pri:0, instance:EdubioSkills.LoginPage@7d9d1a19]" name="closeWebsite" is-config="true" duration-ms="743" started-at="2019-09-02T20:53:55Z" finished-at="2019-09-02T20:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebsite -->
+      </class> <!-- EdubioSkills.LoginPage -->
+      <class name="EdubioSkills.HomePageTabs">
+        <test-method status="PASS" signature="getWebSite()[pri:0, instance:EdubioSkills.HomePageTabs@39c0f4a]" name="getWebSite" is-config="true" duration-ms="9694" started-at="2019-09-02T20:53:56Z" finished-at="2019-09-02T20:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebSite -->
+        <test-method status="PASS" signature="AProductCategories()[pri:0, instance:EdubioSkills.HomePageTabs@39c0f4a]" name="AProductCategories" duration-ms="166" started-at="2019-09-02T20:54:05Z" finished-at="2019-09-02T20:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AProductCategories -->
+        <test-method status="PASS" signature="closeWebsite()[pri:0, instance:EdubioSkills.HomePageTabs@39c0f4a]" name="closeWebsite" is-config="true" duration-ms="800" started-at="2019-09-02T20:54:05Z" finished-at="2019-09-02T20:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebsite -->
+      </class> <!-- EdubioSkills.HomePageTabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
